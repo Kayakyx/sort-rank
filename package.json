@@ -1,0 +1,20 @@
+{
+  "name": "sort-rank",
+  "version": "1.0.0",
+  "description": "Rank an array of objects with support for value ties and tie breakers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": "Kayakyx/sort-rank",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "array",
+    "sort",
+    "rank"
+  ],
+  "author": "kayakyx",
+  "license": "ISC"
+}
