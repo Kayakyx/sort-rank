@@ -1,6 +1,6 @@
 {
   "name": "sort-rank",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rank an array of objects with support for value ties and tie breakers",
   "main": "index.js",
   "scripts": {
